@@ -25,4 +25,5 @@ Or, you can explore its functions as usual in R:
 ```
 help(package="branchcutting")
 ?branchcutting
+?plot.bcut
 ```
