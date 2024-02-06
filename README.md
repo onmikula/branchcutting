@@ -5,7 +5,8 @@ R package with implementation of the branchcutting algorithm for delimitation of
 It can be installed using devtools:
 
 ```
-devtools::install_github("onmikula/branchcutting")
+library(devtools)
+devtools::install_github("onmikula/branchcutting", dependencies = TRUE)
 ```
 
 ### **Example usage**
