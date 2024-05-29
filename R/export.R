@@ -11,9 +11,9 @@ export <- function(x) {
 
 #' Export of branchcutting delimitation.
 #' 
-#' `export` method for class "bcut".
+#' `export` method for class `bcut`.
 #' 
-#' @param bc An object of class "bcut".
+#' @param bc An object of class `bcut`.
 #' @param file A name for the tab-delimited output file.
 #' @param return A logical, whether to return result as a data frame.
 #' @param taxonomy A data frame with an existing classification, informing about species names.
